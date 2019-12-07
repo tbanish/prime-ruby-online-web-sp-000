@@ -1,5 +1,5 @@
 def prime?(n)
-  i = 5
+  
   
   
   
