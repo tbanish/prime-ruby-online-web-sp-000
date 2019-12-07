@@ -5,7 +5,7 @@ def prime?(n)
     if (2..n/2).any? {|i| n % i == 0}
       return false
     else
-      true
+      return true
     end
   end
 end
