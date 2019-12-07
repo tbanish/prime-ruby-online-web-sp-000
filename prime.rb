@@ -1,1 +1,6 @@
-# Add  code here!
+def prime?(n)
+  i = 5
+  
+  
+  
+end
